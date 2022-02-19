@@ -1,0 +1,11 @@
+{
+  "name": "ifacialmocap-to-osc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eventemitter3": "^4.0.7",
+    "osc-min": "^1.1.2",
+    "ws": "^8.5.0"
+  }
+}
