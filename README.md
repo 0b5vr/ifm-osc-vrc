@@ -42,7 +42,7 @@ This is completely unrelated but there are also `websocket.js` and you can test 
 
 ![The "Setup PerfectSync Animator" dialog on Unity](./readme-images/unity-dialog.jpg)
 
-- Put `osc-vrc/Assets/0b5vr/Editor/SetupPerfectSync.cs` into your Unity project
+- Put `osc-vrc/Assets/0b5vr/Editor/Scripts/SetupPerfectSync.cs` into your Unity project
 - Select `0b5vr/Setup PerfectSync Animator` from menu bar (the very top of your Unity Editor window)
 - Set appropriate values for each fields and click "LFG"
 - Expect nothing
